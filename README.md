@@ -29,4 +29,4 @@
 
 ## Live Demo
 
-Check out the live demo at [Your Vercel Link](https://your-vercel-link.vercel.app).
+Check out the live demo at [Vercel](https://blog-site-pranay.vercel.app/).
